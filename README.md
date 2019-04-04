@@ -9,7 +9,7 @@ Short reminder about how to fill readme
 
 1. I decide to develop basic programming language for understanding basic processes in compilation.
 2. Description of your language 
-Types: string, number; Loops; Expressions;
+Types: string, number; Loops; Expressions; Blocks of code
 3. Description 
 A simple programming language written in Java, which is capable to accept user's input and display output also calculate simple math equations.
 
