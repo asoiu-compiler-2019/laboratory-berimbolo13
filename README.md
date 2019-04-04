@@ -7,12 +7,13 @@ add to this repository all your completed work and continue till the end of seme
 
 Short reminder about how to fill readme
 
-1. Short description about your chosen theme
-(add your text here)
-2. Description of your language (types, built-in functions etc.)
-(add your text here)
+1. I decide to develop basic programming language for understanding basic processes in compilation.
+2. Description of your language 
+Types: string, number; Loops; Expressions;
 3. Description 
-(add your text here)
+A simple programming language written in Java, which is capable to accept user's input and display output also calculate simple math equations.
+
+
 
 
 Short reminder about tasks
