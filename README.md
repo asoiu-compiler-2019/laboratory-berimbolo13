@@ -11,7 +11,7 @@ Short reminder about how to fill readme
 2. Description of your language 
 Types: string, number; Loops; Expressions; Blocks of code
 3. Description 
-A simple programming language written in Java, which is capable to accept user's input and display output also calculate simple math equations.
+A simple programming language written in Java, which is capable to accept user's input and display output also calculate simple math equations, loops, blocks.
 
 
 
